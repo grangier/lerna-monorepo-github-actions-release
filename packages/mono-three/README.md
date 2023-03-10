@@ -1,4 +1,4 @@
-# @azu/mono-three
+# @grangier/mono-three
 
 deps +
 
@@ -9,7 +9,7 @@ deps +
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install @azu/mono-three
+    npm install @grangier/mono-three
 
 ## Usage
 

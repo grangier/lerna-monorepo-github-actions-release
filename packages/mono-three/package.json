@@ -1,5 +1,5 @@
 {
-  "name": "@azu/mono-three",
+  "name": "@grangier/mono-three",
   "version": "2.1.5",
   "description": "",
   "homepage": "https://github.com/grangier/lerna-monorepo-github-actions-release/tree/master/packages/mono-three/",
@@ -25,11 +25,11 @@
   },
   "scripts": {},
   "dependencies": {
-    "@azu/mono-one": "^2.1.5",
-    "@azu/mono-two": "^2.1.5"
+    "@grangier/mono-one": "^2.1.5",
+    "@grangier/mono-two": "^2.1.5"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "1262ede083b9b26cd9749ba78bd1ac7c493671be"
+  "gitHead": "e166b852cb2e77924f1f0b8b506699dd5d149ecb"
 }

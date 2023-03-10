@@ -1,4 +1,4 @@
-# @azu/mono-one
+# @grangier/mono-one
 
 One　
 
@@ -6,7 +6,7 @@ One　
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install @azu/mono-one
+    npm install @grangier/mono-one
 
 ## Usage
 

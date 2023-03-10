@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@azu/mono-one@^2.1.5", "@azu/mono-one@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-one":
+"@grangier/mono-one@^2.1.5", "@grangier/mono-one@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-one":
   "resolved" "file:packages/mono-one"
   "version" "2.1.5"
 
-"@azu/mono-three@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-three":
+"@grangier/mono-three@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-three":
   "resolved" "file:packages/mono-three"
   "version" "2.1.5"
   dependencies:
-    "@azu/mono-one" "^2.1.5"
-    "@azu/mono-two" "^2.1.5"
+    "@grangier/mono-one" "^2.1.5"
+    "@grangier/mono-two" "^2.1.5"
 
-"@azu/mono-two@^2.1.5", "@azu/mono-two@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-two":
+"@grangier/mono-two@^2.1.5", "@grangier/mono-two@file:/Users/maclibe/github/lerna-monorepo-github-actions-release/packages/mono-two":
   "resolved" "file:packages/mono-two"
   "version" "2.1.5"
   dependencies:
-    "@azu/mono-one" "^2.1.5"
+    "@grangier/mono-one" "^2.1.5"
 
 "@evocateur/libnpmaccess@^3.1.2":
   "integrity" "sha512-KSCAHwNWro0CF2ukxufCitT9K5LjL/KuMmNzSu8wuwN2rjyKHD8+cmOsiybK+W5hdnwc5M1SmRlVCaMHQo+3rg=="

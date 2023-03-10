@@ -1,5 +1,5 @@
 {
-  "name": "@azu/mono-one",
+  "name": "@grangier/mono-one",
   "version": "2.1.5",
   "description": "",
   "homepage": "https://github.com/grangier/lerna-monorepo-github-actions-release/tree/master/packages/mono-one/",
@@ -27,5 +27,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "1262ede083b9b26cd9749ba78bd1ac7c493671be"
+  "gitHead": "e166b852cb2e77924f1f0b8b506699dd5d149ecb"
 }
